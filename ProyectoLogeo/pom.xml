@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>mx.uv</groupId>
-  <artifactId>ejemplo1</artifactId>
+  <artifactId>ProyectoLogeo</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>ejemplo1</name>
+  <name>ProyectoLogeo</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
