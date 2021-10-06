@@ -1,0 +1,18 @@
+body html {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    background-color: aliceblue;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+    background: #2f352f;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
