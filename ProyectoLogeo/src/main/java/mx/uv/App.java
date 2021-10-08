@@ -75,7 +75,7 @@ public class App {
 			}
 			else
 			{
-				alert("Verifique sus credenciales");
+				alert("Vuelve a intentarlo");
 			}
 		}
 
