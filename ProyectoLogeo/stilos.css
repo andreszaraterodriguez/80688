@@ -9,7 +9,7 @@ h1 {
 body {
     margin: 0%;
     padding: 0%;
-    background: #2f352f;
+    background: hsla(184, 100%, 79%, 0.377);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
